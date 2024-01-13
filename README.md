@@ -15,7 +15,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data?style=social)
 
-# Terrain-Identification-from-Time-Series-Data: Online Book Shopping System
+# Terrain-Identification-from-Time-Series-Data:
 Terrain Identification from Time Series Data using Random Forest Classifier. **Report** at: https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data/blob/main/Team_4_Proj_C1_Technical_Report.pdf
 <!-- TABLE OF CONTENTS -->
 <details>
