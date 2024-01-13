@@ -16,7 +16,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data?style=social)
 
 # Terrain-Identification-from-Time-Series-Data: Online Book Shopping System
-Terrain Identification from Time Series Data using Random Forest Classifier.
+Terrain Identification from Time Series Data using Random Forest Classifier. **Report** at: https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data/blob/main/Team_4_Proj_C1_Technical_Report.pdf
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -30,6 +30,7 @@ Terrain Identification from Time Series Data using Random Forest Classifier.
 </details>
 
 ## System Description and Functions
+**Report:** https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data/blob/main/Team_4_Proj_C1_Technical_Report.pdf<br/>
 Lower limb amputation disrupts the natural, energy efficient walking capability of human beings. Lower-limb
 robotic prosthetics can benefit from environmental context awareness to provide better comfort to their user. In this work, we develop a terrain identification system based on IMU (inertial measurement units) streams collected from the lower limb. Data will consist of several sessions from 6 different subjects including IMU data from a sensor on the leg of a participant, and the labels come from annotations of terrain type from a synchronized data stream. A Random Forest Classifier has been used to classify the samples into different classes like standing or walking in solid ground, going down the stairs, going up the stairs, and walking on grass.<br/>
 The dataset is highly imbalanced and contains 4 types of files: The " x" files contain the xyz accelerometers and xyz
@@ -64,5 +65,6 @@ the sampling rates is 10 Hz.
 </ul>
 
 ## Links
+* [Report](https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data/blob/main/Team_4_Proj_C1_Technical_Report.pdf)
 * [Issue tracker](https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data/issues)
 * [Source code](https://github.com/kaushikjadhav01/Terrain-Identification-from-Time-Series-Data)
